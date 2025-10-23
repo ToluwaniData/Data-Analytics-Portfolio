@@ -27,7 +27,7 @@ This project explores data from a sample DVD rental database using PostgreSQL. T
 - Date filtering using CURRENT_DATE - INTERVAL  
 
 ## 📁 Files Included  
-- `Toluwani_Emmanuel.sql` – Full SQL script  
+- `Toluwani Emmanuel.sql` – Full SQL script  
 - `Screenshots folder` – Visuals of query results  
 
 ## 🔗 Connect with Me  
