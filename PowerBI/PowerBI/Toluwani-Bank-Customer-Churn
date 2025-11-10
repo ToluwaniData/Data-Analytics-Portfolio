@@ -1,0 +1,22 @@
+# Bank Customer Churn Analysis
+
+This Power BI project explores churn behavior across a bank’s customer base using a 2-page interactive dashboard.
+
+## Tools Used
+- Power BI
+- Power Query (for data cleaning)
+- DAX (for custom measures)
+
+## Files Included
+- `Toluwani's Bank+Customer+Churn PowerBi Clean.pbix` — the full Power BI dashboard file  
+- `Toluwani's Bank+Customer+Churn Analysis pdf` — a PDF showing both dashboard pages
+
+## Key Insights
+- Inactive members churn nearly twice as much as active ones  
+- Middle-aged customers (46–55) show the highest churn  
+- Long tenure does not always mean loyalty  
+- German females churn the most, French males the least  
+- High earners and high balance customers churn more. Expectations may be driving it
+
+## Watch the Live Analysis
+You can watch the full walkthrough of this dashboard on [my LinkedIn profile](https://www.linkedin.com/in/toluwaniemmanuel)
