@@ -3,7 +3,7 @@
 **Tool Used:** Microsoft Excel (Data Cleaning, Pivot Tables, Charts, Slicers)
 
 ## Objective
-The goal of this project was to analyze company sales data to uncover performance patterns across sales reps, regions, product categories, and sales channels — and to visualize these insights through an interactive dashboard.
+The goal of this project was to analyze company sales data to uncover performance patterns across sales reps, regions, product categories, and sales channels and to visualize these insights through an interactive dashboard.
 
 ## Process
 - Cleaned and structured raw sales data for consistency and accuracy.
